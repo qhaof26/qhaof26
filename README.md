@@ -28,10 +28,10 @@
   </a> 
   <a href="mailto:qhaofdev@gmail.com" alt="Email">
     <img src="https://img.icons8.com/?size=70&id=P7UIlhbpWzZm&format=png&color=000000"/>
-  </a>
+  <!--</a>
     <a href="https://www.facebook.com/gqhaof" alt="Facebook">
     <img src="https://img.icons8.com/?size=70&id=118497&format=png&color=000000" target="_blank" />
-  </a> 
+  </a> -->
 </p>
 
 ## 💻 Languages and Tools:
