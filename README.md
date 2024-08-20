@@ -12,7 +12,7 @@
 > 
 > ✍ I'm 4th-year student at [University of Economics - Technology for Industries](https://uneti.edu.vn/).
 >
-> 🌏 I'm living now in Ha Noi, Viet Nam
+> 🌏 I'm living now in Ha Noi, Viet Nam.
 <br />
 
 ![](https://komarev.com/ghpvc/?username=qhaof26&style=flat-square)
