@@ -23,9 +23,9 @@
   <a href="https://www.linkedin.com/in/quoc-hao-738261322/" target="_blank">
     <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000"/>
   </a>
-  <a href="https://github.com/qhaof26" alt="Github">
+<!--   <a href="https://github.com/qhaof26" alt="Github">
     <img src="https://img.icons8.com/?size=50&id=62856&format=png&color=000000"/>
-  </a> 
+  </a>  -->
   <a href="mailto:qhaofdev@gmail.com" alt="Email">
     <img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000"/>
   <!--</a>
