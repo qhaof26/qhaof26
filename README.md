@@ -46,21 +46,3 @@
   <img src="https://img.icons8.com/?size=50&id=61466&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=50&id=QEQQKirln6Tf&format=png&color=000000"/>
 </p>
-
-## 📊 Activities:
-
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhaof26&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="qhaof26" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=qhaof26" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-# Certificates:
