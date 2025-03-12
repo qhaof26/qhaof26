@@ -17,7 +17,7 @@
 ## 📫 Connect with me:
 
 <p align="center">
-    <a href="https://t.me/qhao269" alt="Telegram" target="_blank">
+    <a href="https://t.me/qhao269" alt="Telegram" ">
         <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=telegram&logoColor=white" height="25" alt=""/>
     </a>
     <a href="mailto:qhaofdev@gmail.com" alt="Email" target="_blank">
