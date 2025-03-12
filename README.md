@@ -1,48 +1,52 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 <h2 align="center">Hi 👋, I'm Quoc Hao</h2>
-<!--<p align="center">
-  <h3 align="center">Java Backend Developer from Viet Nam</h3>
-</p>-->
+<p align="center">
+  <h4 align="center">Java Developer from Viet Nam</h4>
+</p>
 
 ## 💫 About me
 
-> ✍ I’m currently learning Backend.
-> 
-> ✍ I'm 4th-year student at [University of Economics - Technology for Industries](https://uneti.edu.vn/).
->
-> 🌏 I'm living now in Ha Noi, Viet Nam.
-<br />
+✍ I’m currently learning Backend.
+
+✍ I'm 4th-year student at [University of Economics - Technology for Industries](https://uneti.edu.vn/).
+
+🌏 I'm living now in Ha Noi, Viet Nam.
+
 
 ![](https://komarev.com/ghpvc/?username=qhaof26&style=flat-square)
 
-## 📫 How to reach me:
+## 📫 Connect with me:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/quoc-hao-738261322/" target="_blank">
-    <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000"/>
-  </a>
-<!--   <a href="https://github.com/qhaof26" alt="Github">
-    <img src="https://img.icons8.com/?size=50&id=62856&format=png&color=000000"/>
-  </a>  -->
-  <a href="mailto:qhaofdev@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000"/>
-  <!--</a>
+<p align="">
+    <a href="https://t.me/qhao269" alt="Telegram">
+        <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=telegram&logoColor=white" height="25" alt=""/>
+    </a>
+    <a href="mailto:qhaofdev@gmail.com" alt="Email">
+        <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" height="25"/>
+    </a>
     <a href="https://www.facebook.com/gqhaof" alt="Facebook">
-    <img src="https://img.icons8.com/?size=50&id=118497&format=png&color=000000" target="_blank" />
-  </a> -->
+        <img src="https://img.shields.io/badge/Facebook-%230866FF?style=flat&logo=facebook&logoColor=white" height="25"/>
+    </a>
 </p>
 
-## 💻 Languages and Tools:
+## 💻 Tech stacks:
+
 <p align="center"> 
-  <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=50&id=13679&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=50&id=90519&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=50&id=j9DnICNnlhGk&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=50&id=UFXRpPFebwa2&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=50&id=61466&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=50&id=QEQQKirln6Tf&format=png&color=000000"/>
+
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JAVA-%23EB844E?style=for-the-badge&logo=fireship&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Hibernate-%2359666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Angular-%23F24C53?style=for-the-badge&logo=angular&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </p>
