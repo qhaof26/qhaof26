@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 <h2 align="center">Hi 👋, I'm Quoc Hao</h2>
 <p align="center">
   <h4 align="center">Java Developer from Viet Nam</h4>
